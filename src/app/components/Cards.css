@@ -51,7 +51,11 @@
   flex-direction: column;
   justify-content: space-between;
 }
-
+.texto-btn{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
 .card-title {
   font-size: 1.125rem; 
   font-weight: 600;
